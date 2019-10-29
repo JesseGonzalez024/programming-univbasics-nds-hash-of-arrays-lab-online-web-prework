@@ -16,9 +16,9 @@ def add_character(show, name)
      # end
      
      BASE_HOA.each  { |show, name|
-     [show] << name
-     name = "Dave"
-     show = :chipmunks
+      [show] << name
+      name = "Dave"
+      show = :chipmunks
      }
      
       
