@@ -10,10 +10,11 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   
   
-    while BASE_HOA do
-      BASE_HOA[show] << name
+  
+      BASE_HOA { |show, name|
       show = :chipmunks
       name = "Dave"
+      BASE_HOA
       
     
  
