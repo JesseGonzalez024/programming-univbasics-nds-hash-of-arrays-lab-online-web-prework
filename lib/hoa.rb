@@ -15,7 +15,9 @@ def add_character(show, name)
         # name = "Dave"
      # end
      
-     BASE_HOA { |show, name|
+     result { |show, name|
+     Ba
+     
       
      
     
