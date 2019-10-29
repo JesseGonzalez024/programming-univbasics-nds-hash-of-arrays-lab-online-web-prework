@@ -12,7 +12,8 @@ def add_character(show, name)
   
     while BASE_HOA do
       BASE_HOA[show] << name
-      
+      show = :chipmunks
+      name = "Dave"
       
     
  
