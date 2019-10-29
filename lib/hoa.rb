@@ -16,7 +16,7 @@ def add_character(show, name)
      # end
      
      result { |show, name|
-     Ba
+     BASE_HOA[]
      
       
      
