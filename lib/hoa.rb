@@ -19,6 +19,7 @@ def add_character(show, name)
       [show] << name
       name = "Dave"
       show = :chipmunks
+      return BASE_HOA
      }
      
       
