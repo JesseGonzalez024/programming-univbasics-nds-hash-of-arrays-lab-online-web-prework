@@ -22,13 +22,4 @@ def add_character(show, name)
       return BASE_HOA
      }
      
-      
-     
-    
- 
-  
-  
-   
-
-
-end
+  end
