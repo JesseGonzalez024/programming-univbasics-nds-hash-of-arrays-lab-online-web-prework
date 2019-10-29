@@ -16,5 +16,4 @@ def add_character(show, name)
      # end
      
      BASE_HOA[show] << name
-     
   end
