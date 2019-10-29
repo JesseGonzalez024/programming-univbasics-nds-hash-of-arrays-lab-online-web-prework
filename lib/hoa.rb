@@ -12,7 +12,7 @@ def add_character(show, name)
         BASE_HOA[show] << [name]
         show = :chipmunks
         name = "Dave"
-      
+      end
     
  
   
