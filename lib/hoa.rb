@@ -15,11 +15,6 @@ def add_character(show, name)
         # name = "Dave"
      # end
      
-     BASE_HOA  { |show, name|
-      [show] << name
-      name = "Dave"
-      show = :chipmunks
-      return BASE_HOA
-     }
+     BASE_HOA 
      
   end
